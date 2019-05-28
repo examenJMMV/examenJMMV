@@ -22,7 +22,7 @@ public class JDOM3Creación {
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("MODIFICACION REALIZADA POR JMMV");
+        System.out.println("MODIFICACION REALIZADA POR JMMV 28/05/2019");
         
         
         
